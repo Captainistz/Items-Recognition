@@ -1,0 +1,5 @@
+path: D:\Project\krpc5\yolo\data\yolo_dataset
+train: images/train
+val: images/val
+nc: 10
+names: ['beaker', 'goggle', 'hammer', 'kapton_tape', 'pipette', 'screwdriver', 'thermometer', 'top', 'watch', 'wrench']

@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+
+data/generated - OLD
+data/yolo_dataset
+
+yolov8m.pt
+yolov8n.pt
+yolov8s.pt
+
+runs/detect/*
+!runs/detect/\[nano\]*1000samples
